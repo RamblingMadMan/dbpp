@@ -1,3 +1,7 @@
+# KDE related files that are automatically created
+.directory
+*/.directory
+
 # Compiled Object files
 *.slo
 *.lo
@@ -27,3 +31,8 @@
 *.exe
 *.out
 *.app
+
+# Files to do with testing
+test
+CMakeLists.txt
+*/CMakeLists.txt
