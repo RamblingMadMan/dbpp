@@ -1,8 +1,6 @@
 #ifndef DBPP_FIELD_HPP
 #define DBPP_FIELD_HPP 1
 
-#include "str_const.hpp"
-
 #include "id.hpp"
 
 namespace dbpp{
