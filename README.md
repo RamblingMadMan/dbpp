@@ -1,7 +1,7 @@
 dbpp
 ----
 
-##About
+## About
 
 A generic, header-only C++14 database library. Store any values that are default-initializable, copy-assignable and move-assignable.
 
@@ -9,11 +9,11 @@ Makes heavy use of compile-time strings so records/fields are easily accessible 
 
 All the code is documented for doxygen, so running doxygen on the include directory should be sufficent if you want better documentation.
 
-##Credit where due
+## Credit where due
 
 I'm using this great [compile-time string library](https://github.com/irrequietus/typestring) from [George Makrydakis](https://github.com/irrequietus) to achieve compile-time string identifiers.
 
-##Example
+## Example
 
 Here is an example of a user information database
 ```c++
